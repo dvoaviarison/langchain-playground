@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-urls = ["https://genius.com/Shawna-edwards-risen-lyrics"]
+urls = ["https://genius.com/Imagine-dragons-demons-lyrics"]
 loader = AsyncHtmlLoader(urls)
 docs = loader.load()
 html2text = Html2TextTransformer()
