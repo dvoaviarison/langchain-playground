@@ -7,5 +7,9 @@ An easy introduction to LLM/AI interrogating your data
 ```sh
 pip3 install --upgrade --quiet doctran
 ```
+or (depending on the python version you have)
+```sh
+pip install --upgrade --quiet doctran
+```
 - Run any of the py files. 
 - You can modify the content and play with it as you will
